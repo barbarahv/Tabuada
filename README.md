@@ -1,5 +1,5 @@
 # Tabuada
-beecrowd
+beecrowd em C e Python
 
 beecrowd | 1078
 Tabuada
